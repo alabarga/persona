@@ -45,10 +45,10 @@ def getTweets(username):
 
         # it's about time to create TwitterSearch object again
         ts = TwitterSearch(
-            consumer_key = 'QhS0qnxUo6etCL4Jo7vLue2F3',
-            consumer_secret = 'pyydTGNgRzXJOPsu3Yx1E2ZCztpvQTO1rYHSbHHOPhXr4qXdDb',
-            access_token = '3234653489-uBCf2PIruRduIsRwzA5qat5opbc4yi03a7MHVAn',
-            access_token_secret = 'MC2ND0x6YQJyTyQDbKVbx43svu3LXwbDJRgraSyWkwyiG'
+            consumer_key = '&&&',
+            consumer_secret = '***',
+            access_token = '???',
+            access_token_secret = '$$$'
         )
 
         # start asking Twitter about the timeline
