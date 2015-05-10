@@ -1,7 +1,6 @@
 # persona
-persona
 
-Source code for Persona project.
+Python code for Persona project.
 
 Performs sentiment analysis, entity extraction and personality insights on twitter feeds+wiki articles and creates an ugly PDF.
 
